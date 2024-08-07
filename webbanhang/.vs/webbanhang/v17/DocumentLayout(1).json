@@ -1,0 +1,113 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\WebBanHang\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{210F76E2-ADC0-4511-96F5-8BE603522AAE}|WebBanHang.csproj|d:\\webbanhang\\assets\\css\\header.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{210F76E2-ADC0-4511-96F5-8BE603522AAE}|WebBanHang.csproj|solutionrelative:assets\\css\\header.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{210F76E2-ADC0-4511-96F5-8BE603522AAE}|WebBanHang.csproj|D:\\WebBanHang\\pages\\home.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{210F76E2-ADC0-4511-96F5-8BE603522AAE}|WebBanHang.csproj|solutionrelative:pages\\home.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{210F76E2-ADC0-4511-96F5-8BE603522AAE}|WebBanHang.csproj|D:\\WebBanHang\\pages\\logout.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{210F76E2-ADC0-4511-96F5-8BE603522AAE}|WebBanHang.csproj|solutionrelative:pages\\logout.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{210F76E2-ADC0-4511-96F5-8BE603522AAE}|WebBanHang.csproj|D:\\WebBanHang\\pages\\home.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{210F76E2-ADC0-4511-96F5-8BE603522AAE}|WebBanHang.csproj|solutionrelative:pages\\home.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{210F76E2-ADC0-4511-96F5-8BE603522AAE}|WebBanHang.csproj|D:\\WebBanHang\\pages\\logout.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{210F76E2-ADC0-4511-96F5-8BE603522AAE}|WebBanHang.csproj|solutionrelative:pages\\logout.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Header.css",
+              "DocumentMoniker": "D:\\WebBanHang\\Assets\\css\\Header.css",
+              "RelativeDocumentMoniker": "Assets\\css\\Header.css",
+              "ToolTip": "D:\\WebBanHang\\Assets\\css\\Header.css",
+              "RelativeToolTip": "Assets\\css\\Header.css",
+              "ViewState": "AQIAALoAAAAAAAAAAAAAAMAAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-07-06T14:35:40.689Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Home.aspx",
+              "DocumentMoniker": "D:\\WebBanHang\\Pages\\Home.aspx",
+              "RelativeDocumentMoniker": "Pages\\Home.aspx",
+              "ToolTip": "D:\\WebBanHang\\Pages\\Home.aspx",
+              "RelativeToolTip": "Pages\\Home.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-07-04T08:56:28.54Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Logout.aspx.cs",
+              "DocumentMoniker": "D:\\WebBanHang\\Pages\\Logout.aspx.cs",
+              "RelativeDocumentMoniker": "Pages\\Logout.aspx.cs",
+              "ToolTip": "D:\\WebBanHang\\Pages\\Logout.aspx.cs",
+              "RelativeToolTip": "Pages\\Logout.aspx.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-05T15:14:30.342Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Logout.aspx",
+              "DocumentMoniker": "D:\\WebBanHang\\Pages\\Logout.aspx",
+              "RelativeDocumentMoniker": "Pages\\Logout.aspx",
+              "ToolTip": "D:\\WebBanHang\\Pages\\Logout.aspx",
+              "RelativeToolTip": "Pages\\Logout.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-06-05T13:26:00.518Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Home.aspx.cs",
+              "DocumentMoniker": "D:\\WebBanHang\\Pages\\Home.aspx.cs",
+              "RelativeDocumentMoniker": "Pages\\Home.aspx.cs",
+              "ToolTip": "D:\\WebBanHang\\Pages\\Home.aspx.cs",
+              "RelativeToolTip": "Pages\\Home.aspx.cs",
+              "ViewState": "AQIAADAAAAAAAAAAAAAYwEYAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-05T10:49:34.016Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

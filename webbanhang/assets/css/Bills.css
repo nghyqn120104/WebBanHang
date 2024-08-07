@@ -1,0 +1,22 @@
+﻿* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    scroll-behavior: smooth;
+}
+
+html {
+    font-size: 62.5%;
+}
+
+
+.content-item {
+    height: 70px;
+    background-color: bisque;
+    padding: 0 100px;
+    margin-top: 10px;
+}
+
+h3 {
+    line-height: 70px;
+}

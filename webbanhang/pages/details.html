@@ -1,0 +1,347 @@
+
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+       
+        <link rel="stylesheet" href="../assets/css/Header.css">
+        <link rel="stylesheet" href="../assets/css/Cart.css">
+        <link rel="stylesheet" href="../assets/css/Grid.css">
+        <link rel="stylesheet" href="../assets/css/Responsive.css">
+        <link rel="stylesheet" href="../assets/css/details.css">
+        <link rel="stylesheet" href="../assets/css/Footer.css">
+        <link rel="stylesheet" href="../assets/css/modal.css">
+        <link rel="stylesheet"
+            href="../assets/icons/fontawesome-free-6.4.2-web/fontawesome-free-6.4.2-web/css/all.min.css">
+        <title>Chi tiet san pham</title>
+    </head>
+    <body>
+        <div class="main">
+            <div class="header">
+                <div class="header-infor">
+                    <div class="header-infor__title">
+                        <h3 class="infor-title">
+                            <a href="../pages/home.html" class="infor-title__link">QLAPTOP</a>
+                        </h3>
+                    </div>
+    
+                    <div class="header-infor__input">
+                        <input type="text" class="infor-search" placeholder="Tìm Laptop ở đây">
+                        <button id="search-btn">
+                            <i class="fa-solid fa-magnifying-glass search-icon"></i>
+                        </button>
+                    </div>
+    
+                    <div class="header-infor__customer">
+                        <div class="infor-customer__icon">
+                            <a href="" class="infor-customer__icon--link">
+                                <i class="fa-solid fa-user user-icon"></i>
+                            </a>
+                            <ul class="customer-account">
+                                <li class="customer-account--item">
+                                    <a href="" class="customer-item--link">Đăng nhập</a>
+                                </li>
+                                <li class="customer-account--item">
+                                    <a href="" class="customer-item--link">Đăng ký</a>
+                                </li>
+                            </ul>
+                        </div>
+    
+                        <div class="infor-cart__icon">
+                            <a href="../pages/cart.html" class="infor-cart__icon--link">
+                                <i class="fa-solid fa-cart-shopping cart-icon"></i>
+                            </a>
+                        </div>
+                    </div>
+                </div>
+    
+    
+                <div class="header--forMobile">
+                    <div class="header-wrap">
+                        <div class="header-element">
+                            <h3 class="header-title">
+                                <a href="#" class="header-title--link">QLAPTOP</a>
+                            </h3>
+                        </div>
+                        <div class="header-element">
+                            <div id="menu" class="header-menu">
+                                <i class="fa-solid fa-bars menu-icon"></i>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <!-- Main  -->
+            <main>
+                <div class="row content">
+                    <div class="col l-5 m-5 c-12 img-layer"><img
+                            src="../assets/img/Laptop-Gaming-Asus-TUF-F15-FX506HF-HN014W-500x500.jpg"
+                            alt="Img" class="product-img"></div>
+                    <div class="col l-7 m-7 c-12 details-layer">
+                        <div class="details-title">
+                            <h3 class="p-name">Laptop gaming ASUS TUF Gaming F15
+                                FX506HFHN014W</h3>
+                            <div class="details-content">
+                                <div class="p-price">15000000 VNĐ</div>
+                                <div class="quantites-layer">
+                                    <div class="quantities-title">Quantities:</div>
+                                    <div class="picker">
+                                        <div class="pick-box" onclick="increase()">+</div>
+                                        <div class="pick-box" id="quantities">1</div>
+                                        <div class="pick-box" onclick="decrease()">-</div>
+                                    </div>
+                                </div>
+                                <div class="purchase-layer">
+                                    <div class="purchase" onclick="redirectToCart(1)">Add to Cart</div>
+                                    <div class="purchase" onclick="redirectToCart(2)" id="openModalBtn">Purchase Now</div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+
+                <!-- Mô tả sản phẩm -->
+                <div class="row describe">
+                    <div class="col l-7 m-12 product_describe" >
+                        <label class="row describe_title">Mô tả sản phẩm</label>
+                        <p>Acer Aspire 7 2020 A715 42G tích hợp card đồ họa NVIDIA GTX1650 4GB GDDR6, 
+                        là laptop chơi game tốt nhất phân khúc. Không chỉ vậy, phiên bản này còn mang thiết kế mới 
+                        gọn gàng và sexy hơn. Aspire 7 2020 được trang bị hệ thống tản nhiệt mạnh mẽ bậc nhất trong
+                         phân khúc, thừa hưởng công nghệ từ các dòng máy cao cấp hơn của Acer, cùng cấu hình đỉnh 
+                         cao, giúp cho người dùng có thể vừa chơi game vừa làm việc ở bất cứ lúc nào.
+                        </p>
+                    </div>
+                    <div class="col l-5 m-12 infor_describe">
+                        <label class="row describe_title">Thông tin chi tiết sản phẩm</label>
+                        <div class="infor_describe-item grey_color">
+                            <div class="infor_describe-item--title">Bảo hành</div>
+                            <label class="infor_describe-item-content">24 tháng</label>
+                        </div>
+                        <div class="infor_describe-item">
+                            <div class="infor_describe-item--title">BoostRam</div>
+                            <label class="infor_describe-item-content">Nâng Ram lên 16GB miễn phí</label>
+                        </div>
+                        <div class="infor_describe-item grey_color">
+                            <div class="infor_describe-item--title">CPU</div>
+                            <label class="infor_describe-item-content">i5 11400H</label>
+                        </div>
+                        <div class="infor_describe-item">
+                            <div class="infor_describe-item--title">RAM</div>
+                            <label class="infor_describe-item-content">DDR4 8GB</label>
+                        </div>
+                        <div class="infor_describe-item grey_color">
+                            <div class="infor_describe-item--title">Pin</div>
+                            <label class="infor_describe-item-content">48WHrs</label>
+                        </div>
+                        <div class="infor_describe-item">
+                            <div class="infor_describe-item--title">Đồ họa</div>
+                            <label class="infor_describe-item-content">RTX 2050</label>
+                        </div>
+                        <div class="infor_describe-item grey_color">
+                            <div class="infor_describe-item--title">Cân nặng</div>
+                            <label class="infor_describe-item-content">2.3 kg</label>
+                        </div>
+                        <div class="infor_describe-item">
+                            <div class="infor_describe-item--title">Bộ nhớ lưu trữ</div>
+                            <label class="infor_describe-item-content">512GB</label>
+                        </div>
+                    </div>
+                </div>
+            </main>
+
+                <!--Modal-->
+            <div id="modal_cart" class="modal">
+                <div class="modal-content">
+                    <div class="container">
+                        <span class="close">&times;</span>
+                        <h1>Checkout</h1>
+                        <div class="product-info">
+                            <h2>Thông tin sản phẩm: </h2>
+                            <div class="product">
+                                <div class="product-style">
+                                    <img src="../assets/img/Laptop-Gaming-Asus-TUF-F15-FX506HF-HN014W-500x500.jpg"
+                                        alt="Product Image" class="product-style">
+                                </div>
+                                <div class="product-details">
+                                    <p><strong>Tên máy:</strong> Laptop Asus ROG</p>
+                                    <p><strong>Giá :</strong> 10000000VND</p>
+                                    <p><strong>Số lượng:</strong> 1</p>
+                                </div>
+    
+                            </div>
+                        </div>
+                        <div class="payment-info">
+                            <h2>Thông tin khách hàng: </h2>
+                            <form class="payment-form">
+                                <!-- <label for="name">Tên:</label> -->
+                                <input type="text" id="name" name="name" placeholder="Họ và tên" required>
+    
+                                <!-- <label for="email">Email:</label> -->
+                                <input type="email" id="email" name="email" placeholder="Email" required>
+    
+                                <!-- <label for="address">Địa chỉ:</label> -->
+                                <input type="text" id="address" name="address" placeholder="Địa chỉ" required>
+    
+                                <!-- <label for="card">Số thẻ ngân hàng:</label> -->
+                                <input type="text" id="card" name="card" placeholder="Số thẻ ngân hàng" required>
+    
+                                <button type="submit">MUA NGAY</button>
+                            </form>
+                        </div>
+                    </div>
+                </div>
+            </div>
+                <!-- Footer  -->
+            <footer class="footer">
+                <div class="grid wide footer__content">
+                    <div class="grid row">
+                        <div class="col l-3 m-4 c-6">
+                            <h3 class="footer__heading">Chăm sóc khách
+                                hàng</h3>
+                            <ul class="footer__list">
+                                <li class="footer__item"><a href
+                                        class="footer__item-link">Trung tâm
+                                        trợ giúp</a></li>
+                                <li class="footer__item"><a href
+                                        class="footer__item-link">QLAPTOP
+                                        Mail</a></li>
+                                <li class="footer__item"><a href
+                                        class="footer__item-link">Hướng dẫn
+                                        mua hàng</a></li>
+                            </ul>
+                        </div>
+
+                        <div class="col l-3 m-4 c-6">
+                            <h3 class="footer__heading">Giới thiệu</h3>
+                            <ul class="footer__list">
+                                <li class="footer__item"><a href
+                                        class="footer__item-link">Giới thiệu
+                                        về QLAPTOP</a></li>
+                                <li class="footer__item"><a href
+                                        class="footer__item-link">Tuyển
+                                        dụng</a></li>
+                                <li class="footer__item"><a href
+                                        class="footer__item-link">Điều khoản
+                                        QLAPTOP</a></li>
+                            </ul>
+                        </div>
+
+                        <div class="col l-3 m-4 c-6">
+                            <h3 class="footer__heading">Danh mục</h3>
+                            <ul class="footer__list">
+                                <li class="footer__item"><a href
+                                        class="footer__item-link">LapTop
+                                        Gaming</a></li>
+                                <li class="footer__item"><a href
+                                        class="footer__item-link">LapTop Đồ
+                                        Hoạ</a></li>
+                                <li class="footer__item"><a href
+                                        class="footer__item-link">LapTop
+                                        Mỏng Nhẹ</a></li>
+                            </ul>
+                        </div>
+
+                        <div class="col l-3 m-4 c-6">
+                            <h3 class="footer__heading">Theo dõi chúng
+                                tôi</h3>
+                            <ul class="footer__list">
+                                <li class="footer__item">
+                                    <a href class="footer__item-link">
+                                        <i
+                                            class="footer__item-icon fa-brands fa-facebook"></i>
+                                        Facebook
+                                    </a>
+                                </li>
+                                <li class="footer__item"><a href
+                                        class="footer__item-link">
+                                        <i
+                                            class="footer__item-icon fa-brands fa-instagram"></i>
+                                        Instagram
+                                    </a></li>
+                                <li class="footer__item"><a href
+                                        class="footer__item-link">
+                                        <i
+                                            class="footer__item-icon fa-brands fa-linkedin"></i>
+                                        Linkedin
+                                    </a></li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+                <div class="footer__bottom">
+                    <div class="grid wide">
+                        <ul class="footer__bottom-list">
+                            <li class="footer__bottom-item">
+                                <a href class="footer__bottom-link">Chính
+                                    sách bảo mật
+                                </a>
+                            </li>
+                            <li class="footer__bottom-item">
+                                <a href class="footer__bottom-link">Cơ chế
+                                    hoạt động
+                                </a>
+                            </li>
+                            <li class="footer__bottom-item">
+                                <a href class="footer__bottom-link">Chính
+                                    sách vận chuyển
+                                </a>
+                            </li>
+                            <li class="footer__bottom-item">
+                                <a href class="footer__bottom-link">Chính
+                                    sách trả hàng và hoàn tiền
+                                </a>
+                            </li>
+                        </ul>
+                        <div class="footer__bottom-policy">
+                            <img src="assets/img/checked.png" alt
+                                class="footer__bottom-img">
+                        </div>
+                        <p class="footer__text">Công ty TNHH QLAPTOP</p>
+                        <p class="footer__text">
+                            Địa chỉ: Số 31 ngõ 35 Cát Linh, phường Cát Linh,
+                            quận Đống Đa, thành phố Hà Nội
+                        </p>
+                        <p class="footer__text">
+                            Mã số doanh nghiệp: 0108838679 do Sở Kế Hoạch
+                            &amp; Đầu Tư TP Hà Nội cấp lần đầu ngày
+                            10/02/2015
+                        </p>
+                        <p class="footer__text">© 2023 - Bản quyền thuộc về
+                            Công ty TNHH QLAPTOP</p>
+                    </div>
+                </div>
+            </footer>
+        </div>
+
+            <!-- Menu Mobile -->
+        <div class="menu-mobile">
+            <div class="menu-wrap">
+                <ul class="nav-menu">
+                    <li class="menu-item">
+                        <a href="../pages/home.html" class="menu-item-link">
+                            <i class="fa-solid fa-house home-icon"></i>
+                        </a>
+                    </li>
+                    <li class="menu-item">
+                        <a href="../pages/home.html#gaming" class="menu-item-link">Laptop
+                            Gaming
+                        </a>
+                    </li>
+                    <li class="menu-item">
+                        <a href="../pages/home.html#dohoa" class="menu-item-link">LapTop Đồ
+                            Hoạ
+                        </a>
+                    </li>
+                    <li class="menu-item">
+                        <a href="../pages/home.html#mongnhe" class="menu-item-link">LapTop
+                            Mỏng nhẹ
+                        </a>
+                    </li>
+                </ul>
+            </div>
+        </div>
+        <script src="../js/details.js"></script>
+    </body>
+</html>

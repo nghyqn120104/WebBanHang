@@ -1,0 +1,45 @@
+﻿.menu-mobile {
+    width: 50%;
+    display: none;
+    background-color: #737373;
+    min-height: 2000px;
+    animation: Appear ease-in 0.2s;
+    box-shadow: 0 1px 5px 3px rgba(0, 0, 0, 0.5);
+    position: fixed;
+    top: 0;
+    right: 0;
+    left: 0;
+    bottom: 0;
+    z-index: 2;
+}
+
+.open {
+    display: block;
+}
+
+.menu-item:hover .menu-item-link {
+    color: #000;
+    background-color: #fff;
+}
+
+.menu-item:first-child {
+    margin-top: 0px;
+}
+
+.menu-item-link {
+    display: block;
+    font-weight: bold;
+    color: #fff;
+    font-size: 1.7rem;
+    padding: 12px 8px;
+    text-decoration: none;
+    border-bottom: 1px solid #000;
+}
+
+    .menu-item-link:first-child {
+        margin-top: 0px;
+    }
+
+.home-icon {
+    font-size: 2.5rem;
+}

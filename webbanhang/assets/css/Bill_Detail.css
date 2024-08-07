@@ -1,0 +1,113 @@
+﻿* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    scroll-behavior: smooth;
+}
+
+html {
+    font-size: 62.5%;
+}
+
+
+.content{
+    display: flex;
+    flex-direction: column;
+    font-size: 16px;
+    width: 100%;
+    padding: 30px 100px;
+}
+
+.content-item{
+    border-bottom: 1px solid #e3dede;
+}
+.bill_header{
+    line-height: 50px;
+    background-color: beige;
+    box-shadow:inset;
+}
+.bill_header-id label{
+    color: #2c69af;
+    font-weight: bold;
+    font-size: 1.9rem;
+}
+.bill_date{
+    border-left: 1px solid #e3dede;
+}
+.bill_infor{
+    padding: 2% 0;
+}
+#bill_id{
+    text-transform: uppercase;;
+}
+.bill_products{
+    display: flex;
+    flex-direction: column;
+}
+.bill_infor .col div{
+    line-height: 30px;
+}
+.bill-product__item {
+    margin-bottom: 10px;
+    height: 200px;
+   
+}
+
+.bill-product__item--img {
+    height: 100%;
+    background-position: center;
+    background-size: contain;
+    background-repeat: no-repeat;
+    
+}
+.bill-product__item--title{
+    display: block;
+    font-size: 1.8rem;
+    margin-top: 20px;
+}
+.bill-product__item--price{
+    display: block;
+    font-size: 1.6rem;
+    margin-top: 20px;
+    color: red;
+}
+ i{
+    display: inline-block;
+    color:#6e91b8;
+    margin-right: 15px;
+ }
+ .bill_total-price{
+    margin-top: 20px;
+    justify-content: end;
+ }
+ .bill_total-price h4{
+    margin-left: 50px;
+    color: rgb(229, 41, 41);
+ }
+@media screen and (max-width: 1024px) {
+    .content {
+        padding: 20px 50px;
+    }
+    
+}
+
+@media screen and (max-width: 768px) {
+    .content {
+        padding: 15px 20px;
+      
+    }
+
+    .bill-product__item {
+        height: 100px;
+    }
+}
+
+@media screen and (max-width: 480px) {
+    .content {
+        padding: 0px 5px;
+    }
+    .bill-product__item--price{
+        display: block;
+        font-size: 1rem;
+    }
+}

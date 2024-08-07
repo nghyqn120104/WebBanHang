@@ -1,0 +1,116 @@
+﻿* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.container {
+    background: url('../img/background_image_signInUp.jpg') top center / cover no-repeat;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+}
+
+.login-section {
+    height: 500px;
+    width: 500px;
+    position: fixed;
+    background-color: rgba(255, 255, 255, 0.8);
+    backdrop-filter: blur(7px);
+    max-width: calc(100% - 32px);
+}
+
+.login-header {
+    height: 100px;
+    background-color: #000;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 20px;
+    color: #fff;
+    letter-spacing: 2px;
+}
+
+.login-body {
+    padding: 10px;
+    font-size: 17px;
+    margin: 8px;
+}
+
+.login-form {
+    padding: 4px;
+}
+
+.login-label {
+    display: block;
+    margin-bottom: 8px;
+}
+
+.login-input {
+    display: block;
+    padding: 12px;
+    border: 1px solid #ccc;
+    width: 100%;
+    margin-bottom: 9px;
+    outline: none;
+}
+
+#btnDangNhap {
+    background-color: #000;
+    text-decoration: none;
+    color: #fff;
+    border: none;
+    width: 100%;
+    margin: 15px 0px;
+    padding: 18px;
+    font-size: 18px;
+    text-transform: initial;
+}
+
+    #btnDangNhap:hover {
+        background-color: rgb(220 82 7);
+        color: #ccc;
+        cursor: pointer;
+        font-size: 18px;
+        padding: 18px;
+        font-weight: 600;
+        box-shadow: 0 0 10px rgba(10, 10, 150, 0.5);
+    }
+
+.login-footer {
+    display: flex;
+    justify-content: space-between;
+    padding: 5px 20px;
+    font-size: 17px;
+    width: 100%;
+}
+
+.login-footer__action-account {
+    width: 50%;
+}
+
+.login-footer__not-have-account {
+    text-align: right;
+}
+
+.link {
+    text-decoration: none;
+    font-size: 16px;
+    padding: 8px;
+    color: blue;
+    display: block;
+}
+
+    .link:hover {
+        font-size: 18px;
+        padding: 12px;
+    }
+
+#errorUserName, #errorPassword {
+    color: red;
+    font-size: 15px;
+    font-weight: 500;
+    min-height: 10px;
+    margin-left: 6px;
+}

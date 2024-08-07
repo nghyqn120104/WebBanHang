@@ -1,0 +1,292 @@
+D:\Lập trình web cơ bản\BTL_WEB\BTL_WEB\webbanhang\bin\WebBanHang.dll.config
+D:\Lập trình web cơ bản\BTL_WEB\BTL_WEB\webbanhang\bin\WebBanHang.dll
+D:\Lập trình web cơ bản\BTL_WEB\BTL_WEB\webbanhang\bin\WebBanHang.pdb
+D:\Lập trình web cơ bản\BTL_WEB\BTL_WEB\webbanhang\bin\roslyn\csc.exe
+D:\Lập trình web cơ bản\BTL_WEB\BTL_WEB\webbanhang\bin\roslyn\csc.exe.config
+D:\Lập trình web cơ bản\BTL_WEB\BTL_WEB\webbanhang\bin\roslyn\csc.rsp
+D:\Lập trình web cơ bản\BTL_WEB\BTL_WEB\webbanhang\bin\roslyn\csi.exe
+D:\Lập trình web cơ bản\BTL_WEB\BTL_WEB\webbanhang\bin\roslyn\csi.exe.config
+D:\Lập trình web cơ bản\BTL_WEB\BTL_WEB\webbanhang\bin\roslyn\csi.rsp
+D:\Lập trình web cơ bản\BTL_WEB\BTL_WEB\webbanhang\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Lập trình web cơ bản\BTL_WEB\BTL_WEB\webbanhang\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Lập trình web cơ bản\BTL_WEB\BTL_WEB\webbanhang\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Lập trình web cơ bản\BTL_WEB\BTL_WEB\webbanhang\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Lập trình web cơ bản\BTL_WEB\BTL_WEB\webbanhang\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Lập trình web cơ bản\BTL_WEB\BTL_WEB\webbanhang\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Lập trình web cơ bản\BTL_WEB\BTL_WEB\webbanhang\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Lập trình web cơ bản\BTL_WEB\BTL_WEB\webbanhang\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Lập trình web cơ bản\BTL_WEB\BTL_WEB\webbanhang\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Lập trình web cơ bản\BTL_WEB\BTL_WEB\webbanhang\bin\roslyn\Microsoft.Managed.Core.targets
+D:\Lập trình web cơ bản\BTL_WEB\BTL_WEB\webbanhang\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Lập trình web cơ bản\BTL_WEB\BTL_WEB\webbanhang\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\Lập trình web cơ bản\BTL_WEB\BTL_WEB\webbanhang\bin\roslyn\System.AppContext.dll
+D:\Lập trình web cơ bản\BTL_WEB\BTL_WEB\webbanhang\bin\roslyn\System.Collections.Immutable.dll
+D:\Lập trình web cơ bản\BTL_WEB\BTL_WEB\webbanhang\bin\roslyn\System.Console.dll
+D:\Lập trình web cơ bản\BTL_WEB\BTL_WEB\webbanhang\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\Lập trình web cơ bản\BTL_WEB\BTL_WEB\webbanhang\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\Lập trình web cơ bản\BTL_WEB\BTL_WEB\webbanhang\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Lập trình web cơ bản\BTL_WEB\BTL_WEB\webbanhang\bin\roslyn\System.Globalization.Calendars.dll
+D:\Lập trình web cơ bản\BTL_WEB\BTL_WEB\webbanhang\bin\roslyn\System.IO.Compression.dll
+D:\Lập trình web cơ bản\BTL_WEB\BTL_WEB\webbanhang\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\Lập trình web cơ bản\BTL_WEB\BTL_WEB\webbanhang\bin\roslyn\System.IO.FileSystem.dll
+D:\Lập trình web cơ bản\BTL_WEB\BTL_WEB\webbanhang\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Lập trình web cơ bản\BTL_WEB\BTL_WEB\webbanhang\bin\roslyn\System.Net.Http.dll
+D:\Lập trình web cơ bản\BTL_WEB\BTL_WEB\webbanhang\bin\roslyn\System.Net.Sockets.dll
+D:\Lập trình web cơ bản\BTL_WEB\BTL_WEB\webbanhang\bin\roslyn\System.Reflection.Metadata.dll
+D:\Lập trình web cơ bản\BTL_WEB\BTL_WEB\webbanhang\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\Lập trình web cơ bản\BTL_WEB\BTL_WEB\webbanhang\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\Lập trình web cơ bản\BTL_WEB\BTL_WEB\webbanhang\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\Lập trình web cơ bản\BTL_WEB\BTL_WEB\webbanhang\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\Lập trình web cơ bản\BTL_WEB\BTL_WEB\webbanhang\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\Lập trình web cơ bản\BTL_WEB\BTL_WEB\webbanhang\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\Lập trình web cơ bản\BTL_WEB\BTL_WEB\webbanhang\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\Lập trình web cơ bản\BTL_WEB\BTL_WEB\webbanhang\bin\roslyn\System.ValueTuple.dll
+D:\Lập trình web cơ bản\BTL_WEB\BTL_WEB\webbanhang\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\Lập trình web cơ bản\BTL_WEB\BTL_WEB\webbanhang\bin\roslyn\System.Xml.XmlDocument.dll
+D:\Lập trình web cơ bản\BTL_WEB\BTL_WEB\webbanhang\bin\roslyn\System.Xml.XPath.dll
+D:\Lập trình web cơ bản\BTL_WEB\BTL_WEB\webbanhang\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\Lập trình web cơ bản\BTL_WEB\BTL_WEB\webbanhang\bin\roslyn\vbc.exe
+D:\Lập trình web cơ bản\BTL_WEB\BTL_WEB\webbanhang\bin\roslyn\vbc.exe.config
+D:\Lập trình web cơ bản\BTL_WEB\BTL_WEB\webbanhang\bin\roslyn\vbc.rsp
+D:\Lập trình web cơ bản\BTL_WEB\BTL_WEB\webbanhang\bin\roslyn\VBCSCompiler.exe
+D:\Lập trình web cơ bản\BTL_WEB\BTL_WEB\webbanhang\bin\roslyn\VBCSCompiler.exe.config
+D:\Lập trình web cơ bản\BTL_WEB\BTL_WEB\webbanhang\bin\Antlr3.Runtime.dll
+D:\Lập trình web cơ bản\BTL_WEB\BTL_WEB\webbanhang\bin\AspNet.ScriptManager.jQuery.dll
+D:\Lập trình web cơ bản\BTL_WEB\BTL_WEB\webbanhang\bin\Microsoft.AspNet.FriendlyUrls.dll
+D:\Lập trình web cơ bản\BTL_WEB\BTL_WEB\webbanhang\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+D:\Lập trình web cơ bản\BTL_WEB\BTL_WEB\webbanhang\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Lập trình web cơ bản\BTL_WEB\BTL_WEB\webbanhang\bin\Microsoft.ScriptManager.MSAjax.dll
+D:\Lập trình web cơ bản\BTL_WEB\BTL_WEB\webbanhang\bin\Microsoft.ScriptManager.WebForms.dll
+D:\Lập trình web cơ bản\BTL_WEB\BTL_WEB\webbanhang\bin\Microsoft.Web.Infrastructure.dll
+D:\Lập trình web cơ bản\BTL_WEB\BTL_WEB\webbanhang\bin\Newtonsoft.Json.dll
+D:\Lập trình web cơ bản\BTL_WEB\BTL_WEB\webbanhang\bin\System.Web.Optimization.dll
+D:\Lập trình web cơ bản\BTL_WEB\BTL_WEB\webbanhang\bin\WebGrease.dll
+D:\Lập trình web cơ bản\BTL_WEB\BTL_WEB\webbanhang\bin\System.Web.Optimization.xml
+D:\Lập trình web cơ bản\BTL_WEB\BTL_WEB\webbanhang\bin\Newtonsoft.Json.xml
+D:\Lập trình web cơ bản\BTL_WEB\BTL_WEB\webbanhang\bin\Antlr3.Runtime.pdb
+D:\Lập trình web cơ bản\BTL_WEB\BTL_WEB\webbanhang\bin\Microsoft.AspNet.FriendlyUrls.xml
+D:\Lập trình web cơ bản\BTL_WEB\BTL_WEB\webbanhang\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Lập trình web cơ bản\BTL_WEB\BTL_WEB\webbanhang\obj\Debug\WebBanHang.csproj.AssemblyReference.cache
+D:\Lập trình web cơ bản\BTL_WEB\BTL_WEB\webbanhang\obj\Debug\WebBanHang.csproj.CoreCompileInputs.cache
+D:\Lập trình web cơ bản\BTL_WEB\BTL_WEB\webbanhang\obj\Debug\WebBanHang.csproj.CopyComplete
+D:\Lập trình web cơ bản\BTL_WEB\BTL_WEB\webbanhang\obj\Debug\WebBanHang.dll
+D:\Lập trình web cơ bản\BTL_WEB\BTL_WEB\webbanhang\obj\Debug\WebBanHang.pdb
+C:\Users\Inspiron\Documents\BTL_WEB\webbanhang\bin\WebBanHang.dll.config
+C:\Users\Inspiron\Documents\BTL_WEB\webbanhang\bin\WebBanHang.dll
+C:\Users\Inspiron\Documents\BTL_WEB\webbanhang\bin\WebBanHang.pdb
+C:\Users\Inspiron\Documents\BTL_WEB\webbanhang\bin\roslyn\csc.exe
+C:\Users\Inspiron\Documents\BTL_WEB\webbanhang\bin\roslyn\csc.exe.config
+C:\Users\Inspiron\Documents\BTL_WEB\webbanhang\bin\roslyn\csc.rsp
+C:\Users\Inspiron\Documents\BTL_WEB\webbanhang\bin\roslyn\csi.exe
+C:\Users\Inspiron\Documents\BTL_WEB\webbanhang\bin\roslyn\csi.exe.config
+C:\Users\Inspiron\Documents\BTL_WEB\webbanhang\bin\roslyn\csi.rsp
+C:\Users\Inspiron\Documents\BTL_WEB\webbanhang\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Inspiron\Documents\BTL_WEB\webbanhang\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Inspiron\Documents\BTL_WEB\webbanhang\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Inspiron\Documents\BTL_WEB\webbanhang\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Inspiron\Documents\BTL_WEB\webbanhang\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Inspiron\Documents\BTL_WEB\webbanhang\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Inspiron\Documents\BTL_WEB\webbanhang\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Inspiron\Documents\BTL_WEB\webbanhang\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Inspiron\Documents\BTL_WEB\webbanhang\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Inspiron\Documents\BTL_WEB\webbanhang\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Inspiron\Documents\BTL_WEB\webbanhang\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Inspiron\Documents\BTL_WEB\webbanhang\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Inspiron\Documents\BTL_WEB\webbanhang\bin\roslyn\System.AppContext.dll
+C:\Users\Inspiron\Documents\BTL_WEB\webbanhang\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Inspiron\Documents\BTL_WEB\webbanhang\bin\roslyn\System.Console.dll
+C:\Users\Inspiron\Documents\BTL_WEB\webbanhang\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Inspiron\Documents\BTL_WEB\webbanhang\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Inspiron\Documents\BTL_WEB\webbanhang\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Inspiron\Documents\BTL_WEB\webbanhang\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Inspiron\Documents\BTL_WEB\webbanhang\bin\roslyn\System.IO.Compression.dll
+C:\Users\Inspiron\Documents\BTL_WEB\webbanhang\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Inspiron\Documents\BTL_WEB\webbanhang\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Inspiron\Documents\BTL_WEB\webbanhang\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Inspiron\Documents\BTL_WEB\webbanhang\bin\roslyn\System.Net.Http.dll
+C:\Users\Inspiron\Documents\BTL_WEB\webbanhang\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Inspiron\Documents\BTL_WEB\webbanhang\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Inspiron\Documents\BTL_WEB\webbanhang\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Inspiron\Documents\BTL_WEB\webbanhang\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Inspiron\Documents\BTL_WEB\webbanhang\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Inspiron\Documents\BTL_WEB\webbanhang\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Inspiron\Documents\BTL_WEB\webbanhang\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Inspiron\Documents\BTL_WEB\webbanhang\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Inspiron\Documents\BTL_WEB\webbanhang\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Inspiron\Documents\BTL_WEB\webbanhang\bin\roslyn\System.ValueTuple.dll
+C:\Users\Inspiron\Documents\BTL_WEB\webbanhang\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Inspiron\Documents\BTL_WEB\webbanhang\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Inspiron\Documents\BTL_WEB\webbanhang\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Inspiron\Documents\BTL_WEB\webbanhang\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Inspiron\Documents\BTL_WEB\webbanhang\bin\roslyn\vbc.exe
+C:\Users\Inspiron\Documents\BTL_WEB\webbanhang\bin\roslyn\vbc.exe.config
+C:\Users\Inspiron\Documents\BTL_WEB\webbanhang\bin\roslyn\vbc.rsp
+C:\Users\Inspiron\Documents\BTL_WEB\webbanhang\bin\roslyn\VBCSCompiler.exe
+C:\Users\Inspiron\Documents\BTL_WEB\webbanhang\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Inspiron\Documents\BTL_WEB\webbanhang\bin\Antlr3.Runtime.dll
+C:\Users\Inspiron\Documents\BTL_WEB\webbanhang\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\Inspiron\Documents\BTL_WEB\webbanhang\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\Inspiron\Documents\BTL_WEB\webbanhang\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\Inspiron\Documents\BTL_WEB\webbanhang\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Inspiron\Documents\BTL_WEB\webbanhang\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\Inspiron\Documents\BTL_WEB\webbanhang\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\Inspiron\Documents\BTL_WEB\webbanhang\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Inspiron\Documents\BTL_WEB\webbanhang\bin\Newtonsoft.Json.dll
+C:\Users\Inspiron\Documents\BTL_WEB\webbanhang\bin\System.Web.Optimization.dll
+C:\Users\Inspiron\Documents\BTL_WEB\webbanhang\bin\WebGrease.dll
+C:\Users\Inspiron\Documents\BTL_WEB\webbanhang\bin\System.Web.Optimization.xml
+C:\Users\Inspiron\Documents\BTL_WEB\webbanhang\bin\Newtonsoft.Json.xml
+C:\Users\Inspiron\Documents\BTL_WEB\webbanhang\bin\Antlr3.Runtime.pdb
+C:\Users\Inspiron\Documents\BTL_WEB\webbanhang\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\Inspiron\Documents\BTL_WEB\webbanhang\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Inspiron\Documents\BTL_WEB\webbanhang\obj\Debug\WebBanHang.csproj.AssemblyReference.cache
+C:\Users\Inspiron\Documents\BTL_WEB\webbanhang\obj\Debug\WebBanHang.csproj.CoreCompileInputs.cache
+C:\Users\Inspiron\Documents\BTL_WEB\webbanhang\obj\Debug\WebBanHang.dll
+C:\Users\Inspiron\Documents\BTL_WEB\webbanhang\obj\Debug\WebBanHang.pdb
+D:\BTL_WEB (1)\BTL_WEB\webbanhang\bin\WebBanHang.dll.config
+D:\BTL_WEB (1)\BTL_WEB\webbanhang\bin\WebBanHang.dll
+D:\BTL_WEB (1)\BTL_WEB\webbanhang\bin\WebBanHang.pdb
+D:\BTL_WEB (1)\BTL_WEB\webbanhang\bin\roslyn\csc.exe
+D:\BTL_WEB (1)\BTL_WEB\webbanhang\bin\roslyn\csc.exe.config
+D:\BTL_WEB (1)\BTL_WEB\webbanhang\bin\roslyn\csc.rsp
+D:\BTL_WEB (1)\BTL_WEB\webbanhang\bin\roslyn\csi.exe
+D:\BTL_WEB (1)\BTL_WEB\webbanhang\bin\roslyn\csi.exe.config
+D:\BTL_WEB (1)\BTL_WEB\webbanhang\bin\roslyn\csi.rsp
+D:\BTL_WEB (1)\BTL_WEB\webbanhang\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\BTL_WEB (1)\BTL_WEB\webbanhang\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\BTL_WEB (1)\BTL_WEB\webbanhang\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\BTL_WEB (1)\BTL_WEB\webbanhang\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\BTL_WEB (1)\BTL_WEB\webbanhang\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\BTL_WEB (1)\BTL_WEB\webbanhang\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\BTL_WEB (1)\BTL_WEB\webbanhang\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\BTL_WEB (1)\BTL_WEB\webbanhang\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\BTL_WEB (1)\BTL_WEB\webbanhang\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\BTL_WEB (1)\BTL_WEB\webbanhang\bin\roslyn\Microsoft.Managed.Core.targets
+D:\BTL_WEB (1)\BTL_WEB\webbanhang\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\BTL_WEB (1)\BTL_WEB\webbanhang\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\BTL_WEB (1)\BTL_WEB\webbanhang\bin\roslyn\System.AppContext.dll
+D:\BTL_WEB (1)\BTL_WEB\webbanhang\bin\roslyn\System.Collections.Immutable.dll
+D:\BTL_WEB (1)\BTL_WEB\webbanhang\bin\roslyn\System.Console.dll
+D:\BTL_WEB (1)\BTL_WEB\webbanhang\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\BTL_WEB (1)\BTL_WEB\webbanhang\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\BTL_WEB (1)\BTL_WEB\webbanhang\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\BTL_WEB (1)\BTL_WEB\webbanhang\bin\roslyn\System.Globalization.Calendars.dll
+D:\BTL_WEB (1)\BTL_WEB\webbanhang\bin\roslyn\System.IO.Compression.dll
+D:\BTL_WEB (1)\BTL_WEB\webbanhang\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\BTL_WEB (1)\BTL_WEB\webbanhang\bin\roslyn\System.IO.FileSystem.dll
+D:\BTL_WEB (1)\BTL_WEB\webbanhang\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\BTL_WEB (1)\BTL_WEB\webbanhang\bin\roslyn\System.Net.Http.dll
+D:\BTL_WEB (1)\BTL_WEB\webbanhang\bin\roslyn\System.Net.Sockets.dll
+D:\BTL_WEB (1)\BTL_WEB\webbanhang\bin\roslyn\System.Reflection.Metadata.dll
+D:\BTL_WEB (1)\BTL_WEB\webbanhang\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\BTL_WEB (1)\BTL_WEB\webbanhang\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\BTL_WEB (1)\BTL_WEB\webbanhang\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\BTL_WEB (1)\BTL_WEB\webbanhang\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\BTL_WEB (1)\BTL_WEB\webbanhang\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\BTL_WEB (1)\BTL_WEB\webbanhang\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\BTL_WEB (1)\BTL_WEB\webbanhang\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\BTL_WEB (1)\BTL_WEB\webbanhang\bin\roslyn\System.ValueTuple.dll
+D:\BTL_WEB (1)\BTL_WEB\webbanhang\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\BTL_WEB (1)\BTL_WEB\webbanhang\bin\roslyn\System.Xml.XmlDocument.dll
+D:\BTL_WEB (1)\BTL_WEB\webbanhang\bin\roslyn\System.Xml.XPath.dll
+D:\BTL_WEB (1)\BTL_WEB\webbanhang\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\BTL_WEB (1)\BTL_WEB\webbanhang\bin\roslyn\vbc.exe
+D:\BTL_WEB (1)\BTL_WEB\webbanhang\bin\roslyn\vbc.exe.config
+D:\BTL_WEB (1)\BTL_WEB\webbanhang\bin\roslyn\vbc.rsp
+D:\BTL_WEB (1)\BTL_WEB\webbanhang\bin\roslyn\VBCSCompiler.exe
+D:\BTL_WEB (1)\BTL_WEB\webbanhang\bin\roslyn\VBCSCompiler.exe.config
+D:\BTL_WEB (1)\BTL_WEB\webbanhang\bin\Antlr3.Runtime.dll
+D:\BTL_WEB (1)\BTL_WEB\webbanhang\bin\AspNet.ScriptManager.jQuery.dll
+D:\BTL_WEB (1)\BTL_WEB\webbanhang\bin\Microsoft.AspNet.FriendlyUrls.dll
+D:\BTL_WEB (1)\BTL_WEB\webbanhang\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+D:\BTL_WEB (1)\BTL_WEB\webbanhang\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\BTL_WEB (1)\BTL_WEB\webbanhang\bin\Microsoft.ScriptManager.MSAjax.dll
+D:\BTL_WEB (1)\BTL_WEB\webbanhang\bin\Microsoft.ScriptManager.WebForms.dll
+D:\BTL_WEB (1)\BTL_WEB\webbanhang\bin\Microsoft.Web.Infrastructure.dll
+D:\BTL_WEB (1)\BTL_WEB\webbanhang\bin\Newtonsoft.Json.dll
+D:\BTL_WEB (1)\BTL_WEB\webbanhang\bin\System.Web.Optimization.dll
+D:\BTL_WEB (1)\BTL_WEB\webbanhang\bin\WebGrease.dll
+D:\BTL_WEB (1)\BTL_WEB\webbanhang\bin\System.Web.Optimization.xml
+D:\BTL_WEB (1)\BTL_WEB\webbanhang\bin\Newtonsoft.Json.xml
+D:\BTL_WEB (1)\BTL_WEB\webbanhang\bin\Antlr3.Runtime.pdb
+D:\BTL_WEB (1)\BTL_WEB\webbanhang\bin\Microsoft.AspNet.FriendlyUrls.xml
+D:\BTL_WEB (1)\BTL_WEB\webbanhang\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\BTL_WEB (1)\BTL_WEB\webbanhang\obj\Debug\WebBanHang.csproj.AssemblyReference.cache
+D:\BTL_WEB (1)\BTL_WEB\webbanhang\obj\Debug\WebBanHang.csproj.CoreCompileInputs.cache
+D:\BTL_WEB (1)\BTL_WEB\webbanhang\obj\Debug\WebBanHang.csproj.CopyComplete
+D:\BTL_WEB (1)\BTL_WEB\webbanhang\obj\Debug\WebBanHang.dll
+D:\BTL_WEB (1)\BTL_WEB\webbanhang\obj\Debug\WebBanHang.pdb
+C:\Users\Inspiron\Documents\BTL_WEB\webbanhang\obj\Debug\WebBanHang.csproj.Up2Date
+D:\WebBanMayTinh\webbanhang\bin\WebBanHang.dll.config
+D:\WebBanMayTinh\webbanhang\bin\WebBanHang.dll
+D:\WebBanMayTinh\webbanhang\bin\WebBanHang.pdb
+D:\WebBanMayTinh\webbanhang\bin\roslyn\csc.exe
+D:\WebBanMayTinh\webbanhang\bin\roslyn\csc.exe.config
+D:\WebBanMayTinh\webbanhang\bin\roslyn\csc.rsp
+D:\WebBanMayTinh\webbanhang\bin\roslyn\csi.exe
+D:\WebBanMayTinh\webbanhang\bin\roslyn\csi.exe.config
+D:\WebBanMayTinh\webbanhang\bin\roslyn\csi.rsp
+D:\WebBanMayTinh\webbanhang\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\WebBanMayTinh\webbanhang\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\WebBanMayTinh\webbanhang\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\WebBanMayTinh\webbanhang\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\WebBanMayTinh\webbanhang\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\WebBanMayTinh\webbanhang\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\WebBanMayTinh\webbanhang\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\WebBanMayTinh\webbanhang\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\WebBanMayTinh\webbanhang\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\WebBanMayTinh\webbanhang\bin\roslyn\Microsoft.Managed.Core.targets
+D:\WebBanMayTinh\webbanhang\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\WebBanMayTinh\webbanhang\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\WebBanMayTinh\webbanhang\bin\roslyn\System.AppContext.dll
+D:\WebBanMayTinh\webbanhang\bin\roslyn\System.Collections.Immutable.dll
+D:\WebBanMayTinh\webbanhang\bin\roslyn\System.Console.dll
+D:\WebBanMayTinh\webbanhang\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\WebBanMayTinh\webbanhang\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\WebBanMayTinh\webbanhang\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\WebBanMayTinh\webbanhang\bin\roslyn\System.Globalization.Calendars.dll
+D:\WebBanMayTinh\webbanhang\bin\roslyn\System.IO.Compression.dll
+D:\WebBanMayTinh\webbanhang\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\WebBanMayTinh\webbanhang\bin\roslyn\System.IO.FileSystem.dll
+D:\WebBanMayTinh\webbanhang\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\WebBanMayTinh\webbanhang\bin\roslyn\System.Net.Http.dll
+D:\WebBanMayTinh\webbanhang\bin\roslyn\System.Net.Sockets.dll
+D:\WebBanMayTinh\webbanhang\bin\roslyn\System.Reflection.Metadata.dll
+D:\WebBanMayTinh\webbanhang\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\WebBanMayTinh\webbanhang\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\WebBanMayTinh\webbanhang\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\WebBanMayTinh\webbanhang\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\WebBanMayTinh\webbanhang\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\WebBanMayTinh\webbanhang\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\WebBanMayTinh\webbanhang\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\WebBanMayTinh\webbanhang\bin\roslyn\System.ValueTuple.dll
+D:\WebBanMayTinh\webbanhang\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\WebBanMayTinh\webbanhang\bin\roslyn\System.Xml.XmlDocument.dll
+D:\WebBanMayTinh\webbanhang\bin\roslyn\System.Xml.XPath.dll
+D:\WebBanMayTinh\webbanhang\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\WebBanMayTinh\webbanhang\bin\roslyn\vbc.exe
+D:\WebBanMayTinh\webbanhang\bin\roslyn\vbc.exe.config
+D:\WebBanMayTinh\webbanhang\bin\roslyn\vbc.rsp
+D:\WebBanMayTinh\webbanhang\bin\roslyn\VBCSCompiler.exe
+D:\WebBanMayTinh\webbanhang\bin\roslyn\VBCSCompiler.exe.config
+D:\WebBanMayTinh\webbanhang\bin\Antlr3.Runtime.dll
+D:\WebBanMayTinh\webbanhang\bin\AspNet.ScriptManager.jQuery.dll
+D:\WebBanMayTinh\webbanhang\bin\Microsoft.AspNet.FriendlyUrls.dll
+D:\WebBanMayTinh\webbanhang\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+D:\WebBanMayTinh\webbanhang\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\WebBanMayTinh\webbanhang\bin\Microsoft.ScriptManager.MSAjax.dll
+D:\WebBanMayTinh\webbanhang\bin\Microsoft.ScriptManager.WebForms.dll
+D:\WebBanMayTinh\webbanhang\bin\Microsoft.Web.Infrastructure.dll
+D:\WebBanMayTinh\webbanhang\bin\Newtonsoft.Json.dll
+D:\WebBanMayTinh\webbanhang\bin\System.Web.Optimization.dll
+D:\WebBanMayTinh\webbanhang\bin\WebGrease.dll
+D:\WebBanMayTinh\webbanhang\bin\System.Web.Optimization.xml
+D:\WebBanMayTinh\webbanhang\bin\Newtonsoft.Json.xml
+D:\WebBanMayTinh\webbanhang\bin\Antlr3.Runtime.pdb
+D:\WebBanMayTinh\webbanhang\bin\Microsoft.AspNet.FriendlyUrls.xml
+D:\WebBanMayTinh\webbanhang\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\WebBanMayTinh\webbanhang\obj\Debug\WebBanHang.csproj.AssemblyReference.cache
+D:\WebBanMayTinh\webbanhang\obj\Debug\WebBanHang.csproj.CoreCompileInputs.cache
+D:\WebBanMayTinh\webbanhang\obj\Debug\WebBanHang.csproj.Up2Date
+D:\WebBanMayTinh\webbanhang\obj\Debug\WebBanHang.dll
+D:\WebBanMayTinh\webbanhang\obj\Debug\WebBanHang.pdb
